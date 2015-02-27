@@ -3,10 +3,9 @@ require 'formula'
 # Reference: https://github.com/b4winckler/macvim/wiki/building
 class Macvimg < Formula
   homepage 'https://github.com/genoma/macvim'
-  url 'https://github.com/genoma/macvim/archive/g-snapshot-29.tar.gz'
-  version '7.4-622'
-  sha1 'a3e38aaaa115889c6f72f829a4a6df37c384535f'
-  revision 1
+  url 'https://github.com/genoma/macvim/archive/g-shapshot-31.tar.gz'
+  version '7.4-640'
+  sha1 '4b056d0e11d458d7c3e78d6ab58c5d7351b983b6'
 
   head 'https://github.com/genoma/macvim.git'
 
